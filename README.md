@@ -1,2 +1,2 @@
 # Fakenews_prediction
-This project was my first project for NLP(Natural Language Processing). 
+This project was my first project for NLP(Natural Language Processing). For this project i used the dataset which i also shared in the repository the data consists of 4 columns id, label,  author, news. now for preprocessing i removed the id coulmn and we combined the author and news columns then we removed the stop words and applied stemming then converted this preprocessed text in to TFIDF matirx and trained the model.
